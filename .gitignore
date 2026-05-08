@@ -1,0 +1,16 @@
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Local HTML documentation (für offline Nutzung)
+Dokumentation.html
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporär
+*.tmp
+*.temp
